@@ -1,2 +1,2 @@
 # Labs
-Ысрщщд фтв university programming practice
+School and university programming practice
